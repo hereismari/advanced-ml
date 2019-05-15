@@ -5,4 +5,6 @@ Didactic content, papers, tutorials and talks for specific/advanced topics usual
 
 ## Feature Learning
 
-[Nando de Freitas: "An Informal Mathematical Tour of Feature Learning, Pt. 1" (Talk)](https://www.youtube.com/watch?v=XYEs7kK2efY)
+[Nando de Freitas: "An Informal Mathematical Tour of Feature Learning, Pt. 1" (Talk)](https://www.youtube.com/watch?v=XYEs7kK2efY)  
+[Nando de Freitas: "An Informal Mathematical Tour of Feature Learning, Pt. 2" (Talk)](
+https://www.youtube.com/watch?v=JlONAaoW8rs)
