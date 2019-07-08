@@ -1,6 +1,6 @@
 # advanced-ml
 
-Didactic content, papers, tutorials and talks for specific/advanced topics usually not covered on basic ml courses.
+Didactic content, papers, tutorials and talks about specific/advanced topics usually not covered in basic ml courses.
 
 ## Math
 
