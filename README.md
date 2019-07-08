@@ -2,7 +2,7 @@
 
 Didactic content, papers, tutorials and talks for specific/advanced topics usually not covered on basic ml courses.
 
-## Machine Learning Math
+## Math
 
 [https://marthawhite.github.io/mlcourse/notes.pdf (PDF)](https://marthawhite.github.io/mlcourse/notes.pdf)
 
